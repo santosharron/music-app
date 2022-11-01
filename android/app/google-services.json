@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12569632698",
+    "project_id": "musicapp-206f2",
+    "storage_bucket": "musicapp-206f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12569632698:android:96342192c99c8b898ec783",
+        "android_client_info": {
+          "package_name": "com.epicprogrammer.epic_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12569632698-5q5cmgv6seh5olpcdr5dj835qe7dfi63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIETkBsEBWBkDW9CN-3Y5QKu4_JLx33-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12569632698-5q5cmgv6seh5olpcdr5dj835qe7dfi63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
